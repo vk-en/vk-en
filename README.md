@@ -22,6 +22,4 @@ Total experience in software development over 8 years. Over 4 years of experienc
 
 <a href="http://www.github.com/vk-en"><img src="https://github-readme-stats.vercel.app/api?username=vk-en&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="vk-en's GitHub stats" /></a>
 <a href="http://www.github.com/vk-en"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vk-en&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-### Support Me
 
-<a href="https://www.buymeacoffee.com/vken"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
